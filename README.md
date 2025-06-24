@@ -1,4 +1,4 @@
-# Car Detection using YOLOv2
+# Car Detection using YOLO
 
 This repository contains a Python implementation for detecting objects in images using a pre-trained YOLOv2 (You Only Look Once) model. The core logic is implemented in a Jupyter Notebook (`car_detection_using_yolo.ipynb`) and utilizes TensorFlow 2.x and Keras.
 
