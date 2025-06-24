@@ -96,7 +96,4 @@ Make sure you have Python 3.x installed. You will also need the following librar
 ---
 
 ## 📄 License
-
-The code in this repository is licensed under the terms of the [LICENSE](LICENSE) file.
-
 The sample dataset images are provided under the `Drive.ai Dataset Sample LICENSE`.
