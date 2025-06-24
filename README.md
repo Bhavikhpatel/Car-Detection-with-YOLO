@@ -8,7 +8,7 @@ The model processes an input image and outputs the image with bounding boxes dra
 
 ## 📂 Project Structure
 
-<prev>
+<pre>
 .
 ├── images/ # Input images for detection
 ├── model_data/ # Model files (weights, class names, anchors)
@@ -19,7 +19,7 @@ The model processes an input image and outputs the image with bounding boxes dra
 ├── LICENSE # Repository license
 ├── README.md # This README file
 └── car_detection_using_yolo.ipynb # Main Jupyter Notebook with implementation
-</prev>
+</pre>
 
 ---
 
@@ -67,8 +67,7 @@ Make sure you have Python 3.x installed. You will also need the following librar
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/Bhavikhpatel/car-detection-yolo.git # Replace with the actual repo URL
-    cd car-detection-yolo
+    git clone <url>
     ```
 
 2.  **Install the required packages:**
